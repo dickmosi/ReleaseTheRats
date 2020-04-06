@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="Rat"]/race/trainability</xpath>
+		<value>
+			<trainability>Intermediate</trainability>
+		</value>
+	</Operation>
+</Patch>
