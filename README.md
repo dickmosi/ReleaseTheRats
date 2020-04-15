@@ -3,8 +3,6 @@
 # INSTALLATION:
 Place "ReleaseTheRats" folder into your RimWorld mods folder.
 
-# STEAM WORKSHOP LINK
-
 This mod increases the Rat's "trainable intelligence" from Simple to Intermediate, allowing them to be trained to guard their master and attack enemies.
 
 "For far too long have these rodents have remained victims to so-called "balanced game design", BUT NO LONGER! Restore the rats to their rightful glory. Dismantle this oppressive game design, raid by raid! Saw the empire of tyranny in half. Gnaw at the ankles of pesky raiders! Randy Random would be so proud!"
@@ -38,3 +36,5 @@ A: Hmmm...
 
 Q: You were so preoccupied with whether or not you could, you didn’t stop to think if you should.
 A: Yes.
+
+Steam Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2050586249
