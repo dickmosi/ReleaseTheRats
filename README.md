@@ -1,4 +1,4 @@
-# Release The Rats [RW 1.1]
+# Release The Rats [RW 1.1/1.2]
 
 # INSTALLATION:
 Place "ReleaseTheRats" folder into your RimWorld mods folder.
